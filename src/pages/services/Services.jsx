@@ -103,7 +103,7 @@ const Services = () => {
       'System Design': '/services/system-Design',
       'Big Data': '/services/Big-Data',
       'UI/UX Design': '/services/Ui-Ux',
-      'Cyber Security': '/services/Cyber-Security',
+      'Cyber Security': '/services/Cybersecurity',
       'Web Development': '/services/web-development',
       'Wordpress Development': '/services/wordpress-Development'
     };
